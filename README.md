@@ -57,3 +57,7 @@ You can see a complete usage in the demo app.
 ## Contribution
 
 See [CONTRIBUTING.md](/CONTRIBUTING.md).
+
+
+
+说明：这个其实就是https://github.com/google/cameraview 改造的，这个是为了项目需要针对性的相对改造了一点点。
